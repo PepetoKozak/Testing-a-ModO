@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Tibet",
+		"leaderName": "Thubten Gyatso",
+		"adjective": ["Tibetan"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "May peace be upon you.",
+		"startIntroPart2": "Thubten Gyatso, leader of Tibet, can you help bring back its greatness? Will your time in charge make Tibet shine again?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Tibet won't let anyone push us around anymore. Get ready, because if you stand in our way, we'll make sure you regret it.",
+		"attacked": "If you invade Tibet, expect a fight. We won't back down.",
+		"defeated": "Even in defeat, Tibet's spirit cannot be extinguished. We will rebuild, reclaiming our strength and dignity. Our story is far from over.",
+		"introduction": "Salutations, esteemed guests, and welcome to Tibet. I am Thubten Gyatso, your host in this land of timeless wisdom and peace.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, visitor.",
+		"neutralLetsHearIt": ["Let's hear your offer!","What is your idea?","You may tell your deal?"],
+		"neutralNo": ["Sorry but this deal is not of our Interess.","We respectfully refuse.","Sorry, but we need to deny your offer."],
+		"neutralYes": ["Great Idea! We accept your offer.","Sure! This deal is exactly what we were needing!","Okay, we shall accept your deal."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Your disgrace to Budha, what do you want now?",
+		"hateLetsHearIt": ["Don't waste my time.","Just be quick.","Go on! I don't have all the time in the world!"],
+		"hateNo": ["Why did I waste my great time on this?","I knew that coming from you It would be a horrible deal.","Go away and never come back!"],
+		"hateYes": ["I mean, I guess that's not so much of a bad deal.","Even though I don't like you, you have satisfied Budgha. Thus I accept your deal;","We shall accept your offer."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You have made the right decision, May Budha be with you.",
+		"tradeRequest": "Greetings, we are sending you this great deal, may peace be with you.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [140, 33, 33],
+		"innerColor": [12, 46, 133],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Lhasa","Xigazê","Nyingchi","Shannan","Qamdo","Nagqu","Mainling","Cona","Xining",
+			"Haibei","Haixi","Garzê"]
 	}
 ]
