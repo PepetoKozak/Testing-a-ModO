@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Monk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Tibet",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
