@@ -29,7 +29,7 @@
 
 		"outerColor": [140, 33, 33],
 		"innerColor": [12, 46, 133],
-		"unique": "MANIFEST_DESTINY",
+		"unique": ["Gain enough Faith for a Pantheon"],
 		"cities": ["Lhasa","Xigazê","Nyingchi","Shannan","Qamdo","Nagqu","Mainling","Cona","Xining",
 			"Haibei","Haixi","Garzê"]
 	}
