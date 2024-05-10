@@ -10,6 +10,6 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": ["This Unit upgrades for free"],
-		"attackSound": "phasers"
+		"attackSound": "WoodHit"
 	}   
 ]
