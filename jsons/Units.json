@@ -3,15 +3,13 @@
 		"name": "Monk Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Tibet",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"replaces": "Spearman",
+		"movement": 4,
+		"strength": 15,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "phasers"
 	}
 ]
