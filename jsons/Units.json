@@ -3,13 +3,13 @@
 		"name": "Monk Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Tibet",
-		"replaces": "Spearman",
+		"replaces": "Warrior",
 		"movement": 4,
-		"strength": 15,
-		"cost": 60,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"strength": 12,
+		"cost": 55,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["This Unit upgrades for free"],
 		"attackSound": "phasers"
-	}
+	}   
 ]
