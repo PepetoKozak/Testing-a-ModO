@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
+		"name": "Monastery of Tranquility",
+                "replaces": "Monument",
+		"uniqueTo": "Tibet",
+		"culture": 4,
+		"faith": 2,
+		"cost": 35,
+		"hurryCostModifier": 37,
+		"maintenance": 1,
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Jokhang Sanctuary",
+		"replaces": "Temple",
+		"uniqueTo": "Tibet",
+		"maintenance": 1,
+		"uniques": ["Doubles Gold given to enemy if city is captured", "Hidden when religion is disabled", "Destroyed when the city is captured"] 
+		"faith": 4,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"culture": 3,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 22,
+		"requiredTech": "Philosophy"
 	}
 ]
