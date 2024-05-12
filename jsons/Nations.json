@@ -27,8 +27,8 @@
 		"afterPeace": "You have made the right decision, May Budha be with you.",
 		"tradeRequest": "Greetings, we are sending you this great deal, may peace be with you.",
 
-		"outerColor": [140, 33, 33],
-		"innerColor": [12, 46, 133],
+		"outerColor": [174, 99, 99],
+		"innerColor": [8, 32, 93],
 		"favoredReligion": "Buddhism",
 		"unique": ["Gain enough Faith for a Pantheon"],
 		"cities": ["Lhasa","Xigazê","Nyingchi","Shannan","Qamdo","Nagqu","Mainling","Cona","Xining",
