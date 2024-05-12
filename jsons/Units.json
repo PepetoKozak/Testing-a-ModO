@@ -9,7 +9,7 @@
 		"cost": 55,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["This Unit upgrades for free"],
+		"uniques": ["This Unit gains the [Drill I] promotion"],
 		"attackSound": "WoodHit"
 	}   
 ]
